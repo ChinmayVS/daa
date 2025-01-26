@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 int main(){
   int arrA[]={3,2,5,1,2,0,0,3};
   int n= sizeof(arrA)/sizeof(arrA[0]);
